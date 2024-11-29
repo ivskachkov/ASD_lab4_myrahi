@@ -1,0 +1,3 @@
+/home/ivan/ASD_lab4_myrahi/build/CMakeFiles/lab4.dir
+/home/ivan/ASD_lab4_myrahi/build/CMakeFiles/edit_cache.dir
+/home/ivan/ASD_lab4_myrahi/build/CMakeFiles/rebuild_cache.dir
